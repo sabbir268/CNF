@@ -1,0 +1,40 @@
+*{margin:0;padding:0}
+
+.form-custom{
+	padding: 30px 200px;
+    border: 1px solid #dddddd40;
+    background-color: #e9ecef38;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 16px #ddd;
+}
+.form-custom2{
+	border: 1px solid #dddddd40;
+    background-color: #e9ecef38;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 16px #ddd;
+	margin-top: 30px;
+    margin-bottom: 20px;
+}
+.form-custom2>h1{
+	padding-top:10px;
+}
+button{
+	cursor:pointer;
+}
+#open_new , #open_existing{
+	display:none;
+	}
+.submit_btn{
+	width: 100% !important;
+	cursor:pointer;
+}
+.submit_btn:hover{
+	    box-shadow: 2px 3px 5px #828282;
+}
+
+.step-footer{
+	margin-top:10px;
+}
+.step-footer>button{
+	padding:0px 10px;
+}
